@@ -1,9 +1,5 @@
-# Node.js Rest APIs with Express & MySQL example
+# Node.js Rest APIs with Express & MySQL for AAN API fligths
 
-For more detail, please visit:
-> [Build Node.js Rest APIs with Express & MySQL](https://bezkoder.com/node-js-rest-api-express-mysql/)
-
-> [Deploying/Hosting Node.js app on Heroku with MySQL database](https://bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/)
 
 ## Project setup
 ```
